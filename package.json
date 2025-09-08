@@ -1,6 +1,6 @@
 {
   "name": "sass7in1-scaffold",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI tool to scaffold a robust Sass 7-in-1 architecture with best practices for Next.js, React, and Vite React projects, including automatic setup of folder structure, Sass partials, and main stylesheet imports.",
   "main": "index.js",
   "bin": {
