@@ -8,18 +8,19 @@
   },
   "scripts": {
     "build": "tsc",
-    "start": "ts-node cli.ts"
+    "start": "ts-node cli.ts",
+    "postinstall": "sass7in1-scaffold init"
   },
-"keywords": [
-  "sass",
-  "scss",
-  "cli",
-  "nextjs",
-  "react",
-  "vite",
-  "scaffold",
-  "sass-architecture"
-],
+  "keywords": [
+    "sass",
+    "scss",
+    "cli",
+    "nextjs",
+    "react",
+    "vite",
+    "scaffold",
+    "sass-architecture"
+  ],
   "author": "Sai",
   "license": "MIT",
   "type": "commonjs",
